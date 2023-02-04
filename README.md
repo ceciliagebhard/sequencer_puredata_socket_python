@@ -5,3 +5,6 @@ Send data from Python using Socket and receive it from Pure Data playing a seque
 
 Work in progress
 
+
+Download Pure Data from here:
+https://puredata.info/downloads/pure-data
